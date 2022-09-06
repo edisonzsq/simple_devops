@@ -6,6 +6,6 @@ This repository is used in a free workshop conducted by [Skills Union](www.skill
 
 ## Platforms & Tools
 
-- [GitHub](github.com)
-- [Circle CI](circleci.com)
-- [Heroku](heroku.com)
+- [GitHub](https://www.github.com)
+- [Circle CI](https://www.circleci.com)
+- [Heroku](https://www.heroku.com)
