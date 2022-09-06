@@ -37,21 +37,9 @@ workflows:
   simple_workflow:
     jobs:
       - build:
-          filters:
-            branches:
-              only:
-                - main
       - test:
           requires:
             - build
-          filters:
-            branches:
-              only:
-                - main
       - deploy:
           requires:
             - test
-          filters:
-            branches:
-              only:
-                - main
