@@ -4,6 +4,7 @@
   "description": "## Brief",
   "main": "index.js",
   "scripts": {
+    "build":"npm install",
     "start": "node index.js",
     "test":"echo 'This is a mock test, no actual tests are written for this workshop.'"
   },
