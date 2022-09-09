@@ -24,7 +24,7 @@ This repository is used in a free workshop conducted by [Skills Union](www.skill
 
 Fork [this](https://github.com/edisonzsq/simple_devops) repository. To verify fork successful, you should see the following URL:
 
-- https://github.com/<your username>/simple_devops
+- `https://github.com/<your username>/simple_devops`
 
 ### Configure Circle CI
 
